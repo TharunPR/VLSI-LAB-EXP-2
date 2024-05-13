@@ -172,5 +172,6 @@
 ![magcomp](https://github.com/TharunPR/VLSI-LAB-EXP-2/assets/117915125/6956a78e-80f6-450d-aeee-bebf0601073c)
 
 **RESULT:**<br>
+
 &emsp;&emsp; Thus the simulation and implementation of combinational logic circuit is done and outputs are verified successfully.
 
