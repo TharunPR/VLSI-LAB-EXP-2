@@ -2,9 +2,15 @@
 
 **AIM:**<br>
 
-&emsp;&emsp;To simulate and implement ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using VIVADO 2023.3.<br>
+&emsp;&emsp;To simulate and implement the following circuits using VIVADO 2023.3.<br>
 
-**APPARATUS REQUIRED:**<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;1) Encode<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;2) Decoder<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;3) Multiplexer<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;4) Demultiplexer<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;5) Magnitude comparator<br>
+
+**SOFTWARE REQUIRED:**<br>
 
 &emsp;&emsp;VIVADO 2023.2<br>
 
